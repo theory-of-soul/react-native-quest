@@ -1,0 +1,46 @@
+{
+  "intro": {
+    "lorem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+    "choose": "Choose",
+    "language": "Language",
+    "getStarted": "GET STARTED"
+  },
+  "languages": {
+    "ru": "Русский",
+    "en": "English"
+  },
+  "tutorial": {
+    "skip": "SKIP",
+    "next": "next",
+    "back": "back",
+    "stepOne": {
+      "title": "Title short",
+      "describe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
+    },
+    "stepTwo": {
+      "title": "Title long words",
+      "describe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
+    },
+    "stepThree": {
+      "title": "Title",
+      "describe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "btn": "Play now"
+    }
+  },
+  "chooseAuthorization": {
+    "join": "Join to game",
+    "play": "PLAY WITHOUT REGISTRATION"
+  },
+  "signIn": "Sign in",
+  "signUp": "Sign up",
+  "SignInScreen": {
+    "enter": "Or enter",
+    "forgot": "Forgot your password?"
+  },
+  "SignUpScreen": {
+    "title": "Sign up to continue",
+    "or": "Or sign up",
+    "agreement": "User agreement and Policy for collecting and processing personal information"
+  },
+  "search": "Search"
+}

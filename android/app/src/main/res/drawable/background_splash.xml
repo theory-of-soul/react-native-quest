@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@color/white"/>
+
+    <item
+        android:width="150dp"
+        android:height="106dp"
+        android:drawable="@mipmap/logo800"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/michelle_vi"
+        android:layout_width="532dp"
+        android:layout_height="58dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="500dp"
+        android:text="@string/splash_text"
+        android:textAppearance="@style/SplashThemeText"
+        />
+
+</layer-list>

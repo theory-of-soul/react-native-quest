@@ -1,3 +1,7 @@
+## React native quest 
+
+![Авторизация](files/img/readme/2rh8qf.gif) ![Профиль](files/img/readme/2rh8x7.gif)
+
 
 ### Запуск проекта
 
